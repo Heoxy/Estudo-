@@ -27,5 +27,9 @@ python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
 pip install -r requirements.txt
 ```
+## Atualizações 
+O arquivo extração_2 contém uma versão atualizada e otimizada do código inicial, deixei ele para monitorar minha evolução no estudo de POO, refatoração e otimização de tempo e espaço de processamento.
+
+
 ## Feito com 💻 e ☕ por João Felipe
 
